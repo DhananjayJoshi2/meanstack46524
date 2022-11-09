@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9f21dc7d-3c20-41cb-b2f4-9e333b497800/AppServices/subscriptions/9f21dc7d-3c20-41cb-b2f4-9e333b497800/resourceGroups/Demo_EventO/providers/Microsoft.Web/sites/meanStack46524",
+    "appService.deploySubpath": "."
+}
